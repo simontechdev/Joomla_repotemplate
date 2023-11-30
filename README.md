@@ -1,4 +1,4 @@
-First_Joom
+Joomla Repo Template
 ==========
 
-Developing the first Joomla component for employers and coordinators of people with different timetables
+Developing Joomla components
